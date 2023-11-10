@@ -1,10 +1,26 @@
-*{
-    font-family: 'EB Garamond', serif;
-}
 
 .title {
     text-align: center;
 }
 ul {
-    font-size: 18px;
+    font-size: 17px;
+    gap: 20px;
+}
+nav {
+    font-weight: 600;
+    
+}
+.navbar {
+    background-color: hsla(0, 0%, 100%, 0.421);
+}
+
+.navbar-collapse {
+    margin-left: 70% ;
+}
+a {
+    text-transform: uppercase;    
+}
+a:hover {
+    background: #296aab ;
+    border-radius: 8px;
 }
