@@ -1,10 +1,9 @@
-
 .title {
     text-align: center;
 }
 ul {
     font-size: 17px;
-    gap: 20px;
+    gap: 25px;
 }
 nav {
     font-weight: 600;
@@ -15,12 +14,12 @@ nav {
 }
 
 .navbar-collapse {
-    margin-left: 65% ;
+    margin-left: 60% ;
 }
 a {
     text-transform: uppercase;    
 }
 a:hover {
-    background: #296aab ;
     border-radius: 8px;
-}
+    font-size: large;
+    background-color: rgb(151, 178, 217);
